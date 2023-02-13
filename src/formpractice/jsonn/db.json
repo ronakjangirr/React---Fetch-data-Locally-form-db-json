@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"David",
+        "email":"david@gmail.com",
+        "phone":"9876543211",
+        "city": "Pune"
+    },
+    {
+        "id":2,
+        "name":"Havid",
+        "email":"havid@gmail.com",
+        "phone":"7876543211",
+        "city": "Mumbai"
+    },
+    {
+        "id":3,
+        "name":"Javid",
+        "email":"javid@gmail.com",
+        "phone":"66876543211",
+        "city": "Banglore"
+    }
+
+]
